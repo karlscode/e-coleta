@@ -1,7 +1,7 @@
-<h1 align="center">
+<p align="center">
     <img src=".github/nlw.svg" width="250">
-
-    <p align="center">
+</p>
+<p align="center">
       <a href="https://nodejs.org/en/">
         <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
       </a>
@@ -12,8 +12,6 @@
         <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
       </a>
     </p>
-
-</h1>
 
 <p align="center">
     <img src=".github/logo.svg" width="500">
