@@ -1,9 +1,12 @@
-<h1 align="center">Next Level Week</h1>
-
 <h1 align="center">
-    <img src=".github/logo.svg" width="500">
+    <img src=".github/nlw.svg" width="250">
 </h1>
-<h2 align="center">
+
+<p align="center">
+    <img src=".github/logo.svg" width="500">
+</p>
+
+<p align="center">
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
   </a>
@@ -13,7 +16,7 @@
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
   </a>
-</h2>
+</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/e-coleta?color=brightgreen">
@@ -25,12 +28,15 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/karlscode/e-coleta?color=brightgreen">
   </a>
 	
-  <a href="https://www.linkedin.com/in/karlscode/">  
+  <a href="https://www.linkedin.com/in/carlos-anderson-ti/">  
     <img alt="Made by karlscode" src="https://img.shields.io/badge/made%20by-karlscode-brightgreen">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+### Projeto
+ Ecoleta é uma aplicação que ajuda a encontrar pontos de coleta de lixo reciclável no Brasil. A aplicação foi desenvolvida durante a Next Level Week #1 da @Rocketseat.
 
 ## Tecnologias utilizadas
 
@@ -59,9 +65,9 @@
 2. Execute `npm install` para instalar as dependências;
 3. Execute `npm start` para iniciar o aplicativo;
 
-## :page_facing_up: License
+## :page_facing_up: Licença
 
-Distributed under the MIT license. See [LICENSE](.github/LICENSE.md) for more information.
+[LICENSE](.github/LICENSE.md) para mais informações.
 
 ---
 
