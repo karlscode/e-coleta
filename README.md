@@ -1,4 +1,4 @@
-# Semana OmniStack 11.0 - Be The Hero
+<h1 align="center">Next Level Week</h1>
 
 <h1 align="center">
     <img src=".github/logo.svg" width="500">
