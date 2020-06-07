@@ -16,17 +16,17 @@
 </h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/omnistack-11?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/e-coleta?color=brightgreen">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/karlscode/ecoleta">
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/karlscode/ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/karlscode/e-coleta?color=brightgreen">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/karlscode/e-coleta?color=brightgreen">
   
-  <a href="https://github.com/karlscode/ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/karlscode/ecoleta">
+  <a href="https://github.com/karlscode/e-coleta/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/karlscode/e-coleta?color=brightgreen">
   </a>
 	
   <a href="https://www.linkedin.com/in/karlscode/">  
-    <img alt="Made by karlscode" src="https://img.shields.io/badge/made%20by-karlscode-blue">
+    <img alt="Made by karlscode" src="https://img.shields.io/badge/made%20by-karlscode-brightgreen">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
