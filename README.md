@@ -1,21 +1,22 @@
 <h1 align="center">
     <img src=".github/nlw.svg" width="250">
+
+    <p align="center">
+      <a href="https://nodejs.org/en/">
+        <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
+      </a>
+      <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/static/v1?label=React&message=JS&color=blue?style=plastic&logo=React" alt="ReactJS" />
+      </a>
+      <a href="https://reactnative.dev/">
+        <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
+      </a>
+    </p>
+
 </h1>
 
 <p align="center">
     <img src=".github/logo.svg" width="500">
-</p>
-
-<p align="center">
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/static/v1?label=React&message=JS&color=blue?style=plastic&logo=React" alt="ReactJS" />
-  </a>
-  <a href="https://reactnative.dev/">
-    <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
-  </a>
 </p>
 
 <p align="center">
@@ -35,7 +36,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-### Projeto
+## Projeto
  Ecoleta é uma aplicação que ajuda a encontrar pontos de coleta de lixo reciclável no Brasil. A aplicação foi desenvolvida durante a Next Level Week #1 da @Rocketseat.
 
 ## Tecnologias utilizadas
