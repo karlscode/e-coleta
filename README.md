@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
     <img src=".github/nlw.svg" width="250">
 </h1>
