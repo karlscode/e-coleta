@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <h1 align="center">
     <img src=".github/nlw.svg" width="250">
 </h1>
+=======
+<p align="center">
+    <img src=".github/nlw.svg" width="500">
+</p>
+>>>>>>> 7495930d4097266853f1118617862b4cbb3dcde5
 
 <p align="center">
     <img src=".github/logo.svg" width="500">
